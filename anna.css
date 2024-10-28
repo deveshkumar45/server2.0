@@ -1,0 +1,19 @@
+ div p{
+    border: 3px solid orange;  
+    background-color: lightblue;
+    color: white;                
+    border: 2px solid red;       
+    padding: 10px;                   
+    margin: 10px;
+              
+}
+div h6{
+    border: 3px solid orange;  
+    padding: 0px;            
+    background-color: lightblue; 
+    color: rgb(255, 0, 0);                
+    border: 2px solid rgb(60, 255, 0);       
+    padding: 10px;                
+    margin: 10px;   
+} 
+
